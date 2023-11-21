@@ -10,3 +10,4 @@ ML Models: Lasso Regression, Ridge Regression, Decision Tree, SVM, Random Forest
 
 DL Model: LSTM
 time series model: ARIMA
+
